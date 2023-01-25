@@ -4,7 +4,7 @@ Este projeto é um jogo que fiz para treinar meus conhecimentos em Javascript.
 
 | :placard: Vitrine.Dev |     |
 | -------------  | --- |
-| :sparkles: Nome        | **Titulo do meu projeto**
+| :sparkles: Nome        | Forest Hero
 | :label: Tecnologias | html, css, javascript (tecnologias utilizadas)
 | :rocket: URL         | https://viniciusw95.github.io/forest-hero/jogo.html
 
