@@ -13,5 +13,5 @@ Este projeto é um jogo que fiz para treinar meus conhecimentos em Javascript.
 
 ## Detalhes do projeto
 
-Jogo em que o jogador precisa salvar a floresta. O jogador precisa marcar capturar 25 balões (capturar 25 árvores) para ganhar. Perde se houverem muitas árvores pegando fogo (20).
+Jogo em que o jogador precisa salvar a floresta. O jogador precisa marcar capturar 25 balões (salvar 25 árvores) para ganhar. Perde se houverem muitas árvores pegando fogo (20).
 
